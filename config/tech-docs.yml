@@ -1,10 +1,10 @@
 # Host to use for canonical URL generation (without trailing slash)
-host: https://andyjones81.github.io/dfe-design/
+host: https://andyjones81.github.io/apply-the-service-standard
 
 # Header-related options
 show_govuk_logo: false
-service_name: Design documentation
-service_link: https://andyjones81.github.io/dfe-design
+service_name: Apply the Service Standard in DfE
+service_link: https://andyjones81.github.io/apply-the-service-standard
 phase: Alpha
 
 # Links to show on right-hand-side of header
