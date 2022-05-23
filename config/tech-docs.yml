@@ -1,18 +1,18 @@
 # Host to use for canonical URL generation (without trailing slash)
-host: andyjones81.github.io/dfe-design
+host: https://andyjones81.github.io/dfe-design
 
 # Header-related options
 show_govuk_logo: false
 service_name: Design documentation
-service_link: /
+service_link: https://andyjones81.github.io/dfe-design
 phase: Alpha
 
 # Links to show on right-hand-side of header
 header_links:
-  About: /about
-  Get Started: /get-started
-  Documentation: /
-  Support: /support
+  About: https://andyjones81.github.io/dfe-design/about
+  Get Started: https://andyjones81.github.io/dfe-design/get-started
+  Documentation: https://andyjones81.github.io/dfe-design
+  Support: https://andyjones81.github.io/dfe-design/support
 
 # Enables search functionality. This indexes pages only and is not recommended for single-page sites.
 enable_search: true
@@ -35,4 +35,4 @@ max_toc_heading_level: 3
 prevent_indexing: false
 
 show_contribution_banner: true
-github_repo: dfe-digital/dfe-design-documentation
+github_repo: andyjones81/dfe-design
