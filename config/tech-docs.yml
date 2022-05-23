@@ -1,5 +1,5 @@
 # Host to use for canonical URL generation (without trailing slash)
-host: dfe-digital.github.io/dfe-design-documentation
+host: andyjones81.github.io/dfe-design
 
 # Header-related options
 show_govuk_logo: false
@@ -35,4 +35,4 @@ max_toc_heading_level: 3
 prevent_indexing: false
 
 show_contribution_banner: true
-github_repo: dfe-digital/dfe-design-documentation
+github_repo: andyjones81/dfe-design
